@@ -1,0 +1,2 @@
+# saluddigna
+MIT License
