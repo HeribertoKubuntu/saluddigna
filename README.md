@@ -1,9 +1,3 @@
-<h1 align="center">
-  How to Download
-  <br>
-  <img src="assets/Screenshot from 2019-07-18 08-40-24.png" alt="Descargar"> 
-  <br>
-</h1>
 
 ### License
 
