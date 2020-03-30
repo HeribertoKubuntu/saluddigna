@@ -1,3 +1,6 @@
+### Vista Previa
+
+![](assets/previa.gif)
 
 ### License
 
